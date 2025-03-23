@@ -6,10 +6,10 @@
   "useTabs": false,
   "printWidth": 100,
   "bracketSpacing": true,
-  "arrowParens": "always",
-  "endOfLine": "lf",
-  "quoteProps": "as-needed",
+  "arrowParens":"always",
+  "endOfLine":"auto",
+  "quoteProps":"consistent",
   "jsxSingleQuote": true,
-  "proseWrap": "preserve",
+  "proseWrap":"always",
   "htmlWhitespaceSensitivity": "css"
 }
